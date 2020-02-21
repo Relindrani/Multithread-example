@@ -1,0 +1,3 @@
+﻿  Multithread example.cpp
+H:\__MASTER PROJECTS\C++ Projects\Multithread example\Multithread example\Multithread example.cpp(58,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Multithread example.vcxproj -> H:\__MASTER PROJECTS\C++ Projects\Multithread example\Debug\Multithread example.exe
